@@ -21,3 +21,5 @@
 ## Certifications
 
 ## Contact me
+[![Telegram](https://img.shields.io/badge/Telegram-503bbe?style=for-the-badge&logo=telegram)](https://t.me/kangash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-503bbe?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksei-kangash/)
