@@ -1,9 +1,6 @@
-<div id="header">
-  <img src="https://github.com/kangash/kangash/blob/main/assets/2.jpg?raw=true" width="500
-  "/>
-</div>
+# Hello, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=503bbe&width=435&lines=Hey!+Nice+to+see+you.+;I'm+Aleksei+Kangash%2C+a+QA+Engineer.;Welcome+to+my+GitHub+page!" alt="Typing SVG" /></a>
+My name is Aleksei Kangash. I'm a QA Engineer. 
 
 ## My CV
 ![Link to my CV](https://img.shields.io/badge/Link_to_my_CV-503bbe?style=for-the-badge&logo=)
