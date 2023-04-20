@@ -20,3 +20,4 @@ My name is Aleksei Kangash. I'm a QA Engineer.
 ## Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-503bbe?style=for-the-badge&logo=telegram)](https://t.me/kangash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-503bbe?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksei-kangash/)
+[![Gmail](https://img.shields.io/badge/Gmail-503bbe?style=for-the-badge&logo=gmail)](mailto:kangash.aleksei@gmail.com)
