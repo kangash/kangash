@@ -1,5 +1,3 @@
-![Header](https://github.com/kangash/kangash/blob/main/assets/1.png?raw=true)
-
 # Hello, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 My name is Aleksei Kangash. I'm a QA Engineer. 
@@ -23,6 +21,6 @@ My name is Aleksei Kangash. I'm a QA Engineer.
 ## Certifications
 
 ## Contact me
-[![Telegram](https://img.shields.io/badge/Telegram-b5b6b8?style=for-the-badge&logo=telegram)](https://t.me/kangash)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b5b6b8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksei-kangash/)
-[![Gmail](https://img.shields.io/badge/Gmail-b5b6b8?style=for-the-badge&logo=gmail)](mailto:kangash.aleksei@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%23323330.svg?style=for-the-badge&logo=telegram)](https://t.me/kangash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23323330.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksei-kangash/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23323330.svg?style=for-the-badge&logo=gmail)](mailto:kangash.aleksei@gmail.com)
