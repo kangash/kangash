@@ -6,10 +6,12 @@ My name is Aleksei Kangash. I'm a QA Engineer.
 ![Link to my CV](https://img.shields.io/badge/Link_to_my_CV-503bbe?style=for-the-badge&logo=)
 
 ## Languages and Tools 
-![Jira](https://img.shields.io/badge/Jira-503bbe?style=for-the-badge&logo=jira)
-![Postman](https://img.shields.io/badge/Postman-503bbe?style=for-the-badge&logo=postman)
-![DevTools](https://img.shields.io/badge/DevTools-503bbe?style=for-the-badge&logo=googlechrome)
-![MySQL](https://img.shields.io/badge/MySQL-503bbe?style=for-the-badge&logo=mysql&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-b4b6b8?style=for-the-badge&logo=googlechrome)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Check out my repos
 * [Test Documentation](https://github.com/kangash/Test-Documentation)
