@@ -3,15 +3,15 @@
 My name is Aleksei Kangash. I'm a QA Engineer. 
 
 ## My CV
-![Link to my CV](https://img.shields.io/badge/Link_to_my_CV-503bbe?style=for-the-badge&logo=)
+[![Link to my CV](https://img.shields.io/badge/Link_to_my_CV-b4b6b8?style=for-the-badge&logo=)](https://docs.google.com/document/d/1OgiXz-uFInlL7NvYfWvMFyv02pU6OLU_oy9NJZjutIo/edit?usp=sharing)
 
 ## Languages and Tools 
-![Jira](https://img.shields.io/badge/jira-%23323330.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-333333?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-b4b6b8?style=for-the-badge&logo=googlechrome)
-![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-333333?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Check out my repos
 * [Test Documentation](https://github.com/kangash/Test-Documentation)
@@ -23,6 +23,6 @@ My name is Aleksei Kangash. I'm a QA Engineer.
 ## Certifications
 
 ## Contact me
-[![Telegram](https://img.shields.io/badge/Telegram-%23323330.svg?style=for-the-badge&logo=telegram)](https://t.me/kangash)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23323330.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksei-kangash/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23323330.svg?style=for-the-badge&logo=gmail)](mailto:kangash.aleksei@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram)](https://t.me/kangash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksei-kangash/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail)](mailto:kangash.aleksei@gmail.com)
