@@ -2,8 +2,7 @@
 
 My name is Aleksei Kangash. I'm a QA Engineer. 
 
-## My CV
-  <a href="https://docs.google.com/document/d/1OgiXz-uFInlL7NvYfWvMFyv02pU6OLU_oy9NJZjutIo/edit?usp=sharing" target="_blank"><img alt="LinkToMyCV" src="https://img.shields.io/badge/Link_to_my_CV-b4b6b8?style=for-the-badge" /></a>
+<a href="https://docs.google.com/document/d/1OgiXz-uFInlL7NvYfWvMFyv02pU6OLU_oy9NJZjutIo/edit?usp=sharing" target="_blank">Link to my CV</a> 👈🏼
 
 ## Tools
 ![Jira](https://img.shields.io/badge/jira-316192?style=for-the-badge&logo=jira&logoColor=white)
@@ -28,7 +27,12 @@ My name is Aleksei Kangash. I'm a QA Engineer.
 * [DevTools](https://github.com/kangash/DevTools)
 * [JMeter](https://github.com/kangash/JMeter)
 
+<!-- ## My CV
+  <a href="https://docs.google.com/document/d/1OgiXz-uFInlL7NvYfWvMFyv02pU6OLU_oy9NJZjutIo/edit?usp=sharing" target="_blank"><img alt="LinkToMyCV" src="https://img.shields.io/badge/Click here-333333?style=for-the-badge" /></a> -->
+
 ## Certifications
+
+- [Course 'CrashTest Training: Technical Basics'](https://drive.google.com/file/d/1qhIAcg57z0qL6Km_P42uHUKfRvcdXrnf/view?usp=sharing)
 
 ## Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram)](https://t.me/kangash)
