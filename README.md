@@ -15,6 +15,7 @@ My name is Aleksei Kangash. I'm a QA Engineer.
 ![Fiddler](https://img.shields.io/badge/Fiddler-2cac43?style=for-the-badge&logo=progress&logoColor=white) 
 ![Charles](https://img.shields.io/badge/Charles-007d7d?style=for-the-badge&logo=coil&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-316192?style=for-the-badge&logo=trello&logoColor=white) 
+![Miro](https://img.shields.io/badge/Miro-ffd030?style=for-the-badge&logo=miro&logoColor=050038) 
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=b4b6b8) 
 ![Bash](https://img.shields.io/badge/Bash-f05033?style=for-the-badge&logo=git&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
