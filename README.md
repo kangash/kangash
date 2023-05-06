@@ -7,11 +7,10 @@ My name is Aleksei Kangash. I'm a QA Engineer.
 ## Tools
 ![Jira](https://img.shields.io/badge/jira-316192?style=for-the-badge&logo=jira&logoColor=white)
 ![YouTrack](https://img.shields.io/badge/YouTrack-b4b6b8?style=for-the-badge&logo=jetbrains&logoColor=333333)
-![Trello](https://img.shields.io/badge/Trello-316192?style=for-the-badge&logo=trello&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-fbc116?style=for-the-badge&logo=googlechrome&logoColor=333333)
 ![MySQL](https://img.shields.io/badge/MySQL-007d7d?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Fiddler](https://img.shields.io/badge/Fiddler-2cac43?style=for-the-badge&logo=progress&logoColor=white) 
 ![Charles](https://img.shields.io/badge/Charles-007d7d?style=for-the-badge&logo=coil&logoColor=white) 
 ![JMeter](https://img.shields.io/badge/JMeter-961728?style=for-the-badge&logo=apachejmeter&logoColor=f49124)
@@ -19,6 +18,7 @@ My name is Aleksei Kangash. I'm a QA Engineer.
 ![VSCode](https://img.shields.io/badge/VSCode-007acc?style=for-the-badge&logo=visualstudio&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=b4b6b8) 
 ![Bash](https://img.shields.io/badge/Bash-f05033?style=for-the-badge&logo=git&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-316192?style=for-the-badge&logo=trello&logoColor=white) 
 
 ## Check out my repos
 * [Test Documentation](https://github.com/kangash/Test-Documentation)
