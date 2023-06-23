@@ -37,6 +37,7 @@ My name is Aleksei Kangash. I'm a QA Engineer.
 ## Certifications
 
 - [Course 'CrashTest Training: Technical Basics'](https://drive.google.com/file/d/1qhIAcg57z0qL6Km_P42uHUKfRvcdXrnf/view?usp=sharing)
+- [Course 'JavaScript for Beginners'](https://drive.google.com/file/d/1UdXCh_Y05QoT0EMnD4SM7i853p1uxegW/view?usp=sharing)
 
 ## Contact me
 
