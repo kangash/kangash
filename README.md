@@ -22,7 +22,7 @@ My name is Aleksei Kangash. I'm a QA Engineer.
 ![JavaScript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![VSCode](https://img.shields.io/badge/VSCode-007acc?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-## Check out my repos
+## Experience
 
 - [Test Documentation](https://github.com/kangash/Test-Documentation)
 - [Postman](https://github.com/kangash/Postman)
