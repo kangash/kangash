@@ -34,10 +34,10 @@ My name is Aleksei Kangash. I'm a QA Engineer.
 <!-- ## My CV
   <a href="https://docs.google.com/document/d/1OgiXz-uFInlL7NvYfWvMFyv02pU6OLU_oy9NJZjutIo/edit?usp=sharing" target="_blank"><img alt="LinkToMyCV" src="https://img.shields.io/badge/Click here-333333?style=for-the-badge" /></a> -->
 
-## Certifications
+## Certificates
 
-- [Course 'CrashTest Training: Technical Basics'](https://drive.google.com/file/d/1qhIAcg57z0qL6Km_P42uHUKfRvcdXrnf/view?usp=sharing)
-- [Course 'JavaScript for Beginners'](https://drive.google.com/file/d/1UdXCh_Y05QoT0EMnD4SM7i853p1uxegW/view?usp=sharing)
+- [JavaScript for Beginners](https://drive.google.com/file/d/1UdXCh_Y05QoT0EMnD4SM7i853p1uxegW/view?usp=sharing)
+- [CrashTest Training: Technical Basics](https://drive.google.com/file/d/1qhIAcg57z0qL6Km_P42uHUKfRvcdXrnf/view?usp=sharing)
 
 ## Contact me
 
