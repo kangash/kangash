@@ -29,7 +29,6 @@ My name is Aleksei Kangash. I'm a QA Engineer.
 - [SQL](https://github.com/kangash/SQL)
 - [JMeter](https://github.com/kangash/JMeter)
 - [JavaScript](https://github.com/kangash/JavaScript)
-- [DevTools](https://github.com/kangash/DevTools)
 
 <!-- ## My CV
   <a href="https://docs.google.com/document/d/1OgiXz-uFInlL7NvYfWvMFyv02pU6OLU_oy9NJZjutIo/edit?usp=sharing" target="_blank"><img alt="LinkToMyCV" src="https://img.shields.io/badge/Click here-333333?style=for-the-badge" /></a> -->
