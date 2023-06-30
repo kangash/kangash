@@ -2,7 +2,7 @@
 
 My name is Aleksei Kangash. I'm a QA Engineer.
 
-<a href="https://docs.google.com/document/d/1v6FGGZ4R-GKmc_nduNTp242K_vNcTGjFkY0nL8N4oE8/edit?usp=sharing" target="_blank">Link to my CV</a> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd5bXd6NXYxZDA3a3NvODM3Z2EzaGl1bnZrNGk3djAwd21rcmNzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/iigp4VDyf5dCLRlGkm/giphy.gif" height="25" >
+<h3> <a href="https://docs.google.com/document/d/1v6FGGZ4R-GKmc_nduNTp242K_vNcTGjFkY0nL8N4oE8/edit?usp=sharing" target="_blank">Link to my CV</a> 👈 </h3>
 
 ## Tools
 
