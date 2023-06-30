@@ -1,4 +1,4 @@
-# Hello, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+# Hello, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25" >
 
 My name is Aleksei Kangash. I'm a QA Engineer.
 
