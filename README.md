@@ -1,8 +1,6 @@
 # Hello, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25" >
 
-My name is Aleksei Kangash. I'm a QA Engineer.
-
-<h3> <a href="https://docs.google.com/document/d/1v6FGGZ4R-GKmc_nduNTp242K_vNcTGjFkY0nL8N4oE8/edit?usp=sharing" target="_blank">Link to my CV</a> 👈 </h3>
+My name is Aleksei. I'm a QA Engineer. <a href="https://docs.google.com/document/d/1v6FGGZ4R-GKmc_nduNTp242K_vNcTGjFkY0nL8N4oE8/edit?usp=sharing" target="_blank">Link to my CV</a> 👈
 
 ## Tools
 
