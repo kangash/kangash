@@ -1,6 +1,6 @@
 # Hello, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25" >
 
-My name is Aleksei. I'm a QA Engineer. <a href="https://docs.google.com/document/d/1v6FGGZ4R-GKmc_nduNTp242K_vNcTGjFkY0nL8N4oE8/edit?usp=sharing" target="_blank">Link to my CV</a> 👈
+<!-- My name is Aleksei. I'm a QA Engineer. <a href="https://docs.google.com/document/d/1v6FGGZ4R-GKmc_nduNTp242K_vNcTGjFkY0nL8N4oE8/edit?usp=sharing" target="_blank">Link to my CV</a> 👈 -->
 
 ## Tools
 
@@ -20,13 +20,13 @@ My name is Aleksei. I'm a QA Engineer. <a href="https://docs.google.com/document
 ![JavaScript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![VSCode](https://img.shields.io/badge/VSCode-007acc?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-## Experience
+<!-- ## Experience
 
 - [Test Documentation](https://github.com/kangash/Test-Documentation)
 - [Postman](https://github.com/kangash/Postman)
 - [SQL](https://github.com/kangash/SQL)
 - [JMeter](https://github.com/kangash/JMeter)
-- [JavaScript](https://github.com/kangash/JavaScript)
+- [JavaScript](https://github.com/kangash/JavaScript) -->
 
 <!-- ## My CV
   <a href="https://docs.google.com/document/d/1OgiXz-uFInlL7NvYfWvMFyv02pU6OLU_oy9NJZjutIo/edit?usp=sharing" target="_blank"><img alt="LinkToMyCV" src="https://img.shields.io/badge/Click here-333333?style=for-the-badge" /></a> -->
