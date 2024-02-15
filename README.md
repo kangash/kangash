@@ -1,6 +1,6 @@
 # Hello, welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25" >
 
-<!-- My name is Aleksei. I'm a QA Engineer. <a href="https://docs.google.com/document/d/1v6FGGZ4R-GKmc_nduNTp242K_vNcTGjFkY0nL8N4oE8/edit?usp=sharing" target="_blank">Link to my CV</a> 👈 -->
+<!-- My name is Aleksei. I'm a QA Engineer. <a href="https://docs.google.com/document/d/1v6FGGZ4R-GKmc_nduNTp242K_vNcTGjFkY0nL8N4oE8/edit?usp=sharing" target="_blank">Link to my CV</a> 👈 
 
 ## Tools
 
@@ -31,7 +31,7 @@
 <!-- ## My CV
   <a href="https://docs.google.com/document/d/1OgiXz-uFInlL7NvYfWvMFyv02pU6OLU_oy9NJZjutIo/edit?usp=sharing" target="_blank"><img alt="LinkToMyCV" src="https://img.shields.io/badge/Click here-333333?style=for-the-badge" /></a> -->
 
-## Certificates
+<!-- ## Certificates
 
 - [JavaScript for Beginners](https://drive.google.com/file/d/1UdXCh_Y05QoT0EMnD4SM7i853p1uxegW/view?usp=sharing)
 - [CrashTest Training: Technical Basics](https://drive.google.com/file/d/1qhIAcg57z0qL6Km_P42uHUKfRvcdXrnf/view?usp=sharing)
@@ -40,4 +40,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram)](https://t.me/kangash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksei-kangash/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail)](mailto:kangash.aleksei@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail)](mailto:kangash.aleksei@gmail.com) 
